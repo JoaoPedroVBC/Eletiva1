@@ -7,6 +7,6 @@
 </head>
 <body>
     <p>Ano: 2025 </p>
-    <p>Amo: <?php  echo date("Y"):;?> </p>
+    <p>Ano: <?php  echo date("Y");?> </p>
 </body>
 </html>
